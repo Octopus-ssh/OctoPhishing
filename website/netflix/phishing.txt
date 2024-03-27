@@ -1,0 +1,4 @@
+127.0.0.1 - - [27/Mar/2024 09:37:47] /
+127.0.0.1 - - [27/Mar/2024 09:37:48] /style.css
+127.0.0.1 - - [27/Mar/2024 09:37:48] /favicon.ico
+127.0.0.1 - - [27/Mar/2024 09:37:52] /login.php?username=asdasd&password=asdasdassd
